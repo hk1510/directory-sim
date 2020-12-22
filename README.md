@@ -2,12 +2,12 @@
 
 This set of programs simulates a disk and allows for the management of directories. 
 
-**Instructions:** \ 
+**Instructions:**  \
 in terminal \
 type './DirectoryServer <number of cylinders> <number of sectors> <track time in microseconds>' into terminal and press <enter>. \
 e.x. './DirectoryServer 10 10 300' starts a server with 10 cylinders, 10 sectors, and 300 microseconds track time. \
 in another terminal
-type './DirectoryClient' into terminal and press <enter>. \
+type './DirectoryClient' into terminal and press <enter>. 
 
 Type commands into the client and the client will print out the output returned by the server. \
 The following commands are valid:
