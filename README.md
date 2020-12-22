@@ -27,5 +27,5 @@ information, or ’0’ if no such block exists.
 - pwd : print the working directory name.
 - rmdir dirname: remove the directory given.
 
-** The user needs to press 'ctrl c' to exit the server. **
+** The user needs to press 'ctrl c' to exit the server. ** \
 ** The user can exit the client by typing 'exit' **
